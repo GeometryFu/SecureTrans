@@ -4,7 +4,7 @@
 SecureTrans 是一个基于 C++ 和 MFC 的安全文件传输工具，结合了密码学和网络通信技术，旨在实现文件的加密传输和安全验证。该项目采用 DES 对称加密算法保护数据机密性，并通过 Windows Sockets 实现网络通信。
 
 <div align="center">
-  <img src="docs/images/windows.png" width="300">
+  <img src="Docs/images/windows.png" width="300">
 </div>
 
 ## 功能特性
