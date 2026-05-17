@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SecureTrans - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\18033\AppData\Local\Temp\RSPE3FD.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/SecureTrans.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Microsoft Visual Studio\MyProjects\SecureTrans\SecureTransDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\18033\AppData\Local\Temp\RSPE3FD.tmp" 
+Creating temporary file "C:\Users\18033\AppData\Local\Temp\RSPE3FE.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SecureTrans.pdb" /debug /machine:I386 /out:"Debug/SecureTrans.exe" /pdbtype:sept 
+".\Debug\SecureTrans.obj"
+".\Debug\SecureTransDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SecureTrans.res"
+".\Debug\DES.obj"
+]
+Creating command line "link.exe @C:\Users\18033\AppData\Local\Temp\RSPE3FE.tmp"
+<h3>Output Window</h3>
+Compiling...
+SecureTransDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+SecureTrans.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
